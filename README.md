@@ -32,6 +32,14 @@ It's not just a game selector — it actually contains **multiple playable mini-
 ## 🕹️ How to Play
 
 1. Clone the repo  
-```bash npx shadcn@2.3.0 add "https://v0.dev/chat/b/9hrWDfwo2ua?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..SS3kgFKftj-hzUDx.Ul78l6XnReU9XjidC5X3gRJgjKE6_yUu3Zd3n8AFYZcWDTwAJFBU72OO.xDM8I2S6bUD8cYIBqepsHA" 
+git clone https://github.com/your-username/game-picker-galaxy.git
+cd game-picker-galaxy
+2. Install Dependencies
+npm install
+3. Add UI Components via ShadCN
+npx shadcn@2.3.0 add "https://v0.dev/chat/b/9hrWDfwo2ua?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..SS3kgFKftj-hzUDx.Ul78l6XnReU9XjidC5X3gRJgjKE6_yUu3Zd3n8AFYZcWDTwAJFBU72OO.xDM8I2S6bUD8cYIBqepsHA"
+4. Run the App
+npm run dev
+
 
 
