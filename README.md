@@ -32,8 +32,8 @@ It's not just a game selector — it actually contains **multiple playable mini-
 ## 🕹️ How to Play
 
 1. Clone the repo  
-git clone https://github.com/your-username/game-picker-galaxy.git
-cd game-picker-galaxy
+git clone https://github.com/chetx27/game-chooser/tree/main
+cd game-chooser/tree/main
 2. Install Dependencies
 npm install
 3. Add UI Components via ShadCN
