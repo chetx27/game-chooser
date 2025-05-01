@@ -30,16 +30,22 @@ It's not just a game selector — it actually contains **multiple playable mini-
 ---
 
 ## 🕹️ How to Play
-
-1. Clone the repo  
-git clone https://github.com/chetx27/game-chooser/tree/main
-cd game-chooser/tree/main
-2. Install Dependencies
+1. 🚀 Clone the Repository
+bash
+git clone https://github.com/chetx27/game-chooser.git
+cd game-chooser
+2. 📦 Install Dependencies
+bash
 npm install
-3. Add UI Components via ShadCN
+3. 🎨 Add UI Components via ShadCN
+bash
 npx shadcn@2.3.0 add "https://v0.dev/chat/b/9hrWDfwo2ua?token=eyJhbGciOiJkaXIiLCJlbmMiOiJBMjU2R0NNIn0..SS3kgFKftj-hzUDx.Ul78l6XnReU9XjidC5X3gRJgjKE6_yUu3Zd3n8AFYZcWDTwAJFBU72OO.xDM8I2S6bUD8cYIBqepsHA"
-4. Run the App
+4. 💻 Run the App
+bash
 npm run dev
+
+
+
 
 
 
